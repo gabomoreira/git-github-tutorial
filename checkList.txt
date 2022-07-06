@@ -5,3 +5,5 @@ This is my git and github checkList
 3. git add .
 4. git commit -m ""
 5. git log
+
+I have completed all of these commands and understand them!!!
