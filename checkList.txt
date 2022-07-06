@@ -6,7 +6,7 @@ This is my git and github checkList
 4. git commit -m ""
 5. git log
 
-I have completed all of these commands and understand them!!!
+I have completed all of these commands and understand them!
 
 6. git chechout
 7. git revert
