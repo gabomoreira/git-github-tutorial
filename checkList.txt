@@ -10,3 +10,9 @@ I have completed all of these commands and understand them!
 
 6. git chechout
 7. git revert
+
+Using Branching and Merging in git
+
+8. git switch
+9. git branch
+10. git merge
