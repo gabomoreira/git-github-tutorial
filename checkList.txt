@@ -16,3 +16,9 @@ Using Branching and Merging in git
 8. git switch
 9. git branch
 10. git merge
+
+Github related commands
+
+11. git remote
+12. git push
+13. git pull
