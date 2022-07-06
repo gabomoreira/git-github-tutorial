@@ -1,3 +1,5 @@
 This is the first chapter of using git branches
 
 new work added to chapter one
+
+This is the end of chapter one
